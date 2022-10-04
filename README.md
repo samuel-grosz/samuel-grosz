@@ -5,4 +5,4 @@ I'm currently building [a tool to map social groups](https://github.com/samuel-g
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)](https://github.com/samuel-grosz/github-readme-stats)
 
-[![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-grosz&layout=compact)](https://github.com/samuel-grosz/github-readme-stats)
+[![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-grosz&layout=compact&theme=tokyonight)](https://github.com/samuel-grosz/github-readme-stats)
