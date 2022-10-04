@@ -7,6 +7,6 @@
   
   
   
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)](https://github.com/samuel-grosz/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)]
 
-[![Sam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-grosz&layout=compact&theme=tokyonight)](https://github.com/samuel-grosz/github-readme-stats)
+[![Sam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel-grosz)]
