@@ -7,5 +7,5 @@
   
   
   
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)]
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)
 
