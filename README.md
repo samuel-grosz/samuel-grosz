@@ -5,6 +5,4 @@
  You can check out my website at [samuelgrosz.co.uk](https://samuelgrosz.co.uk)  
  and my twitter at [twitter.com/@groszsg](https://twitter.com/@groszsg)  
   
-  
-  
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-grosz&theme=tokyonight)](https://samuelgrosz.co.uk)
+ 
